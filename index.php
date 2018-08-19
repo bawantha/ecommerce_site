@@ -114,7 +114,14 @@
                         <img src="admin_area/slides_images/4.png" alt="">
                     </div>
                 </div>
-
+                <a href="#eComCarousel" class="left carousel-control" data-slide="prev">
+                    <span class="glyphicon glyphicon-chevron-left"></span>
+                    <span class="sr-only">Previous</span>
+                </a>
+                <a href="#eComCarousel" class="right carousel-control" data-slide="next">
+                    <span class="glyphicon glyphicon-chevron-right"></span>
+                    <span class="sr-only">Next</span>
+                </a>
             </div>
         </div>
     </div>

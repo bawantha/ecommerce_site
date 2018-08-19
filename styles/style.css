@@ -134,3 +134,8 @@ navbar-brand:focus{
     width: 100%;
 
 }
+/* Carousel slider styles*/
+
+#slider{
+    margin-bottom: 40px;
+}
