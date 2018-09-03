@@ -31,7 +31,7 @@
 
               <div class="col-md-3 col-sm-6">
                   <h4>Where to find us</h4>
-              </div>
+
 
               <p><strong>Lankika Ltd</strong>
                   <br>Moratuwa
@@ -49,7 +49,7 @@
             <p class="text-muted">
                 "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et
             </p>
-        </div>
+
         <form action="" method="post">
             <div class="input-group">
                 <input type="text" class="form-control" name="email">
@@ -58,5 +58,17 @@
                 </span>
             </div>
         </form>
+        <hr>
+        <h4>Stay in Touch</h4>
+        <p class="social">
+            <a href="#"><i class="fab fa-facebook icons"></i></a>
+            <a href="#"><i class="fab fa-twitter icons"></i></a>
+            <a href="#"><i class="fab fa-instagram icons"></i></a>
+            <a href="#"><i class="fab fa-google-plus icons"></i></a>
+            <a href="#"><i class="fa fa-envelope icons"></i></a>
+        </p>
+        </div>
     </div>
+
+</div>
 </div>
