@@ -299,3 +299,16 @@ navbar-brand:focus{
 .icons{
     font-size: 20px;
 }
+
+#copyright{
+    background: #333;
+    color: #ccc;
+    padding: 20px 0;
+    font-size: 12px;
+
+}
+
+
+#copyright p {
+    margin:0;
+}

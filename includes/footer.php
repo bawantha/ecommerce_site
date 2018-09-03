@@ -72,3 +72,16 @@
 
 </div>
 </div>
+
+<div id="copyright">
+    <div class="container">
+        <div class="col-md-6">
+            <p class="pull-left">&copy;2018 Bawantha Rajapaksha</p>
+        </div>
+        <div class="col-md-6">
+            <p class="pull-right">
+                Template by <a href="www.bawanthasmile.blogspot.com">Lankika Ltd</a>
+            </p>
+        </div>
+    </div>
+</div>
